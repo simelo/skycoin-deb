@@ -11,9 +11,11 @@ assignees: ''
 - Name: 
 - Homepage:
 - Type: deb-src | deb | snap
-- Download URL: 
+- Binary download URL: 
+- Version control URL:
 - Version(s):
 - Compiler info: for sdist only
+- License:
 
 **Rationale**
 Explain the reasons for including this project.
